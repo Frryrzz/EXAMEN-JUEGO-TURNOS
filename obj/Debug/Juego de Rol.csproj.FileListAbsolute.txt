@@ -1,0 +1,7 @@
+C:\Users\ferra\source\repos\Juego de Rol\bin\Debug\Juego de Rol.exe.config
+C:\Users\ferra\source\repos\Juego de Rol\bin\Debug\Juego de Rol.exe
+C:\Users\ferra\source\repos\Juego de Rol\bin\Debug\Juego de Rol.pdb
+C:\Users\ferra\source\repos\Juego de Rol\obj\Debug\Juego de Rol.csproj.AssemblyReference.cache
+C:\Users\ferra\source\repos\Juego de Rol\obj\Debug\Juego de Rol.csproj.CoreCompileInputs.cache
+C:\Users\ferra\source\repos\Juego de Rol\obj\Debug\Juego de Rol.exe
+C:\Users\ferra\source\repos\Juego de Rol\obj\Debug\Juego de Rol.pdb
